@@ -1,0 +1,138 @@
+# Copyright (C) 2016 TCMB Para Birimi
+# This file is distributed under the same license as the TCMB Para Birimi package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TCMB Para Birimi 2.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/para-birimi\n"
+"POT-Creation-Date: 2016-11-23 13:14:49+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: tcmbparabirimi-setting.php:13
+msgid "TÜRK LİRASI"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "AMERİKAN DOLARI"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "AVUSTRALYA DOLARI"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "DANİMARKA KRONU"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "EURO"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "İNGİLİZ STERLİNİ"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "İSVİÇRE FRANGI"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "İSVEÇ KRONU"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "KANADA DOLARI"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "KUVEYT DİNARI"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "NORVEÇ KRONU"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "SUUDİ ARABİSTAN RİYALİ"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "JAPON YENİ"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "BULGAR LEVASI"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "RUMEN LEYİ"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "RUS RUBLESİ"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "İRAN RİYALİ"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "ÇİN YUANI"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:13
+msgid "PAKİSTAN RUPİSİ"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:15
+msgid ""
+"<p>Bu plugin, TCMB (Türkiye Cumhuriyeti Merkez Bankası) tarafından "
+"yayınlanan xml formatındaki veriden faydalanarak para birimleri arasında "
+"çevrim yapar. \n"
+"  <br />\n"
+"  Yapılan çevrim TRY (Türk Lirası) baz alınarak yapılır. Bu da çok ufak "
+"küsarat farklılıkları oluşturmaktadır.</p>\n"
+"\n"
+"<p><strong>= Veri Kaynağı = </strong><br />\n"
+"  Günlük kur verileri, Türkiye Cumhuriyeti Merkez Bankası sayfasından "
+"çekilmektedir.  </p>\n"
+"<p><strong>Veri kaynağı :</strong><br />\n"
+"  http://www.tcmb.gov.tr/kurlar/today.xml  </p>\n"
+"<p><strong>Verinin İşlenmesi : </strong><br />\n"
+"  1 USD = X TRY ==> X TRY = ? EUR\n"
+"  <br />\n"
+"  <em>(Bu işlem ufak küsarat farklılıkları oluşturmaktadır.) </em></p>\n"
+"<p>\n"
+"\n"
+"</p>"
+msgstr ""
+
+#: tcmbparabirimi-setting.php:35 tcmbparabirimi.php:78
+msgid " ! Günceleme hatası : Veri çekilemedi... "
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "TCMB Para Birimi"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://dev.4gendesign.com/tcmbparabirimi"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Seçilen para birimini döviz olarak seçilmiş para birimine dönüştürür. "
+"Kısayol ve Widget desteği mevcuttur."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ozibal"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://dev.4gendesign.com"
+msgstr ""

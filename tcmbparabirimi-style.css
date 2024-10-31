@@ -1,0 +1,120 @@
+.pb_admincol{
+    width: 30%;
+    padding: 5px;
+	margin: 5px;
+    float: left;
+    min-width: 254px;
+}
+.pb_symboladmin{
+	float: left;
+    padding-left: 20px;
+    background: transparent no-repeat scroll 0 6px;
+}
+.parabirimi_shortcode {
+    font-size: 18px;
+    padding: 5px;
+}
+.parabirimi_from{
+	vertical-align: super;
+	font-size: 60%;
+	font-weight: lighter;
+	background-color: gray;
+	color: white;
+	border-radius: 10%;
+	-webkit-box-shadow: inset 1px 1px 2px 0px rgba(204,204,204,1);
+	-moz-box-shadow: inset 1px 1px 2px 0px rgba(204,204,204,1);
+	box-shadow: inset 1px 1px 2px 0px rgba(204,204,204,1);
+}
+.parabirimi_to {
+	font-weight: bold;
+	font-size: 80%;
+	vertical-align:sub;
+	background-color: green;
+	color: white;
+	padding: 5px;
+	border: solid 1px #000;
+	border-radius: 10%;
+	-webkit-box-shadow: 1px 1px 5px 0px rgba(204,204,204,0.75);
+	-moz-box-shadow: 1px 1px 5px 0px rgba(204,204,204,0.75);
+	box-shadow: 1px 1px 5px 0px rgba(204,204,204,0.75);
+}
+.parabirimi {    
+	font-weight: bold;
+    font-size: 150%;
+    vertical-align: bottom;
+}
+.parabirimi_update {
+	font-weight: bold;
+	color: red;
+	vertical-align: super;
+}
+.parabirimi_widget {
+	margin: 0 auto;
+    background: #fff;
+    color: #000;
+    padding: 0 3px;
+}
+.pb_labels {
+    clear: both;
+    height: 30px;
+}
+.pb_label{
+    min-width: 50px;
+    float: right;
+    text-align: center;
+    font-weight: bold;
+    padding: 0px;
+}
+.pb_widgetrows{
+    min-width: 150px;
+    padding: 0px;
+}
+.pb_widgetrow{
+    height: 17px;
+    padding: 0;
+    clear: both;
+    overflow: hidden;
+}
+.pb_buytag {
+	font-weight: bold;
+	font-size: 80%;
+	background-color: green;
+	color: white;
+	padding: 5px;
+	border: solid 1px #000;
+	border-radius: 10%;
+	-webkit-box-shadow: 1px 1px 5px 0px rgba(204,204,204,0.75);
+	-moz-box-shadow: 1px 1px 5px 0px rgba(204,204,204,0.75);
+	box-shadow: 1px 1px 5px 0px rgba(204,204,204,0.75);
+}
+.pb_symbol{
+	float: left;
+    padding-left: 20px;
+    background: transparent no-repeat scroll 0 6px;
+}
+.TRY{ background-image: url(images/TRY.png); }
+.USD{ background-image: url(images/USD.gif); }
+.AUD{ background-image: url(images/AUD.gif); }
+.DKK{ background-image: url(images/DKK.gif); }
+.EUR{ background-image: url(images/EUR.gif); }
+.GBP{ background-image: url(images/GBP.gif); }
+.CHF{ background-image: url(images/CHF.gif); }
+.SEK{ background-image: url(images/SEK.gif); }
+.CAD{ background-image: url(images/CAD.gif); }
+.KWD{ background-image: url(images/KWD.gif); }
+.NOK{ background-image: url(images/NOK.gif); }
+.SAR{ background-image: url(images/SAR.gif); }
+.JPY{ background-image: url(images/JPY.gif); }
+.BGN{ background-image: url(images/BGN.gif); }
+.RON{ background-image: url(images/RON.gif); }
+.RUB{ background-image: url(images/RUB.gif); }
+.IRR{ background-image: url(images/IRR.gif); }
+.CNY{ background-image: url(images/CNY.gif); }
+.PKR{ background-image: url(images/PKR.gif); }
+.pb_buy, .pb_sell {
+    float: right;
+    overflow: hidden;
+    padding: 0 4px 0 0;
+    text-align: right;
+    width: 60px;
+}

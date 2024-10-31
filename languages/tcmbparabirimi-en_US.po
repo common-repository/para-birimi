@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tcmbparabirimi\n"
+"POT-Creation-Date: 2016-11-25 15:13+0300\n"
+"PO-Revision-Date: 2016-11-25 15:14+0300\n"
+"Last-Translator: \n"
+"Language-Team: ozibal <ozibal@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+"X-Poedit-SearchPathExcluded-1: images\n"
+
+#: tcmbparabirimi-setting.php:13
+msgid "TÜRK LİRASI"
+msgstr "TURKISH LIRA"
+
+#: tcmbparabirimi-setting.php:13
+msgid "AMERİKAN DOLARI"
+msgstr "US DOLLAR"
+
+#: tcmbparabirimi-setting.php:13
+msgid "AVUSTRALYA DOLARI"
+msgstr "AUSTRALIAN DOLLAR"
+
+#: tcmbparabirimi-setting.php:13
+msgid "DANİMARKA KRONU"
+msgstr "DANISH KRONE"
+
+#: tcmbparabirimi-setting.php:13
+msgid "EURO"
+msgstr "EURO"
+
+#: tcmbparabirimi-setting.php:13
+msgid "İNGİLİZ STERLİNİ"
+msgstr "POUND STERLING"
+
+#: tcmbparabirimi-setting.php:13
+msgid "İSVİÇRE FRANGI"
+msgstr "SWISS FRANK"
+
+#: tcmbparabirimi-setting.php:13
+msgid "İSVEÇ KRONU"
+msgstr "SWEDISH KRONA"
+
+#: tcmbparabirimi-setting.php:13
+msgid "KANADA DOLARI"
+msgstr "CANADIAN DOLLAR"
+
+#: tcmbparabirimi-setting.php:13
+msgid "KUVEYT DİNARI"
+msgstr "KUWAITI DINAR"
+
+#: tcmbparabirimi-setting.php:13
+msgid "NORVEÇ KRONU"
+msgstr "NORWEGIAN KRONE"
+
+#: tcmbparabirimi-setting.php:13
+msgid "SUUDİ ARABİSTAN RİYALİ"
+msgstr "SAUDI RIYAL"
+
+#: tcmbparabirimi-setting.php:13
+msgid "JAPON YENİ"
+msgstr "JAPENESE YEN"
+
+#: tcmbparabirimi-setting.php:13
+msgid "BULGAR LEVASI"
+msgstr "BULGARIAN LEV"
+
+#: tcmbparabirimi-setting.php:13
+msgid "RUMEN LEYİ"
+msgstr "NEW LEU"
+
+#: tcmbparabirimi-setting.php:13
+msgid "RUS RUBLESİ"
+msgstr "RUSSIAN ROUBLE"
+
+#: tcmbparabirimi-setting.php:13
+msgid "İRAN RİYALİ"
+msgstr "IRANIAN RIAL"
+
+#: tcmbparabirimi-setting.php:13
+msgid "ÇİN YUANI"
+msgstr "CHINESE RENMINBI"
+
+#: tcmbparabirimi-setting.php:13
+msgid "PAKİSTAN RUPİSİ"
+msgstr "PAKISTANI RUPEE"
+
+#: tcmbparabirimi-setting.php:15
+msgid ""
+"<p>Bu plugin, TCMB (Türkiye Cumhuriyeti Merkez Bankası) tarafından "
+"yayınlanan xml formatındaki veriden faydalanarak para birimleri arasında "
+"çevrim yapar. \n"
+"  <br />\n"
+"  Yapılan çevrim TRY (Türk Lirası) baz alınarak yapılır. Bu da çok ufak "
+"küsarat farklılıkları oluşturmaktadır.</p>\n"
+"\n"
+"<p><strong>= Veri Kaynağı = </strong><br />\n"
+"  Günlük kur verileri, Türkiye Cumhuriyeti Merkez Bankası sayfasından "
+"çekilmektedir.  </p>\n"
+"<p><strong>Veri kaynağı :</strong><br />\n"
+"  http://www.tcmb.gov.tr/kurlar/today.xml  </p>\n"
+"<p><strong>Verinin İşlenmesi : </strong><br />\n"
+"  1 USD = X TRY ==> X TRY = ? EUR\n"
+"  <br />\n"
+"  <em>(Bu işlem ufak küsarat farklılıkları oluşturmaktadır.) </em></p>\n"
+"<p>\n"
+"\n"
+"</p>"
+msgstr ""
+"<p>This plugin converts currencies each other by using the xml format "
+"datatransmitted by the Central Bank of the Republic of Turkey (CBT). <br /"
+">\n"
+"The conversion made is based on TRY (Turkish Lira). This creates very small "
+"difference.</p>\n"
+"\n"
+"<p><strong>= Data Source =</strong><br />\n"
+"  The daily exchange rate data is taken from the Central Bank of the "
+"Republic of Turkey website.</p>\n"
+"<p><strong>Data source :</strong><br />\n"
+"  http://www.tcmb.gov.tr/kurlar/today.xml  </p>\n"
+"<p><strong>Data Processing : </strong><br />\n"
+"  1 USD = X TRY ==> X TRY = ? EUR\n"
+"  <br />\n"
+"  <em>(This process produces minor differences.) </em></p>\n"
+"<p>\n"
+"\n"
+"</p>"
+
+#: tcmbparabirimi-setting.php:35 tcmbparabirimi.php:110
+msgid " ! Günceleme hatası : Veri çekilemedi... "
+msgstr " ! Update Error : No Data… "
+
+#: tcmbparabirimi.php:62
+msgid "Ayarlar"
+msgstr "Setting"
